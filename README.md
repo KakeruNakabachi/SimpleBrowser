@@ -1,2 +1,2 @@
 # SimpleBrowser
-- iOS勉強用
+iOSの勉強用に作成
